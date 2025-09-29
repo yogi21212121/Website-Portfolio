@@ -2,15 +2,15 @@
    LIGHT THEME — EDIT THESE 5
    ============================= */
 :root {
-  --bg: #EFDDFD;
+  --bg: #DA6C6C;
   /* page background */
-  --text: #210934;
+  --text: #ffffff;
   /* main text */
-  --surface: #F6EAFF;
+  --surface: #AF3E3E;
   /* cards, boxes, list items */
-  --nav: #36065B;
+  --nav: #AF3E3E;
   /* navbar (dark bar) */
-  --accent: #7C3AED;
+  --accent: #ffffff;
   /* links & primary buttons */
 }
 
